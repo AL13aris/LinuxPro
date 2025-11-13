@@ -18,7 +18,7 @@ case "$oper" in
 		echo "결과 $num1 $oper $num2 = $result"
 		;;
 	-)
-		result=$((num1 + num2))
+		result=$((num1 - num2))
 		echo "결과 $num1 $oper $num2 = $result"
 		;;
 	x|X)
