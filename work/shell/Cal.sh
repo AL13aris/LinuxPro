@@ -50,4 +50,4 @@ case "$oper" in
 esac
 
 	
-
+exit 0
